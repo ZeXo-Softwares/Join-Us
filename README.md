@@ -16,5 +16,5 @@ Giancamillo Alessandroni | @NotManyIdeasDev | Windows / Linux - Manjaro
 ## Contact us
 If you are intrested in joining our team, contact us!
 * Discord 
-  * 0xciri#0000
+  * 0xciri#0001
   * NotManyIdeas#9972
